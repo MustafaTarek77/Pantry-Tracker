@@ -67,20 +67,6 @@ To run this project locally, follow these steps:
 - **Remove Item:** Click the "Remove" button next to the item you want to remove.
 - **Search Items:** Use the search bar to filter items by name.
 
-## Project Structure
-
-```
-src/
-│
-├── components/
-│   └── Inventory.js
-│
-├── firebase.js
-│
-└── pages/
-    └── index.js
-```
-
 ## Technologies Used
 
 - React
